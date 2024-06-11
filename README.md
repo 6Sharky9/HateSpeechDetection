@@ -1,4 +1,6 @@
 Hate Speech Detection App
+
+
 This Hate Speech Detection App is a simple tool built with Streamlit that allows users to input a tweet and check if it contains hate speech, offensive speech, or neither. The app utilizes a trained Decision Tree Classifier model and a CountVectorizer to make predictions.
 
 How to Use
